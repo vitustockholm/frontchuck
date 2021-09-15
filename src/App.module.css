@@ -1,0 +1,7 @@
+.container {
+  font-size: 15px;
+  font-family: monospace;
+  margin: 0 auto;
+  max-width: 30em;
+  line-height: 1.6;
+}
